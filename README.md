@@ -153,7 +153,7 @@ Simon Deltadahl: scfc3@cam.ac.uk
 
 ## Reporting Issues
 
-Please report any issues or bugs on the [Issues page](https://github.com/Deltadahl/CytoDiffusion/issues).
+Please report any issues or bugs on the [Issues page](https://github.com/CambridgeCIA/CytoDiffusion/issues).
 
 ## Licence
 
