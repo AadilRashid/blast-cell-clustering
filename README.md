@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/844912517.svg)](https://doi.org/10.5281/zenodo.14825812)
 # Deep Generative Classification of Blood Cell Morphology
 
 This repository contains the code accompanying the paper ["Deep Generative Classification of Blood Cell Morphology"](https://arxiv.org/abs/2408.08982), which is published as a preprint on arXiv and is currently under peer review. The code demonstrates the application of diffusion-based models for classification tasks, with a focus on blood cell morphology. It provides a foundation for reproducing key findings and offers a framework for further exploration in this area.
