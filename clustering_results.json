@@ -1,0 +1,62 @@
+{
+  "n_images": 4944,
+  "n_clusters": 3,
+  "clustering_metrics": {
+    "silhouette": 0.03154595568776131,
+    "davies_bouldin": 4.681746758763742,
+    "calinski_harabasz": 160.9843514590048
+  },
+  "cluster_statistics": {
+    "cluster_0": {
+      "size": 1658,
+      "mean_uncertainty": 0.02386612817645073,
+      "std_uncertainty": 0.00041845085797831416,
+      "sample_images": [
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_52_25_5_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_52_30_1_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_11_24_1_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_45_30_6_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_45_25_10_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_45_31_12_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_52_33_5_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_52_13_16_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_45_24_4_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_4_12_2_all.bmp"
+      ]
+    },
+    "cluster_1": {
+      "size": 1673,
+      "mean_uncertainty": 0.023816252127289772,
+      "std_uncertainty": 0.00041124963900074363,
+      "sample_images": [
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_35_3_10_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_48_14_4_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_14_18_1_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_28_5_6_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_52_26_6_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_15_20_1_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_28_33_3_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_4_6_1_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_14_26_1_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_14_4_1_all.bmp"
+      ]
+    },
+    "cluster_2": {
+      "size": 1613,
+      "mean_uncertainty": 0.023602092638611794,
+      "std_uncertainty": 0.0004034009762108326,
+      "sample_images": [
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_48_12_8_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_50_21_7_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_28_3_3_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_50_25_3_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_50_29_5_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_50_8_7_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_48_10_5_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_43_9_1_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_35_6_7_all.bmp",
+        "data/C-NMC/C-NMC_Leukemia/training_data/fold_0/all/UID_50_26_5_all.bmp"
+      ]
+    }
+  }
+}
