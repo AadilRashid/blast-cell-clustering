@@ -17,14 +17,14 @@ This repository contains code for discovering blast cell morphological subtypes 
 -  Statistical validation (silhouette, Davies-Bouldin, Calinski-Harabasz)
 -  Clinical decision support with confidence scores
 
-## 📊 Results
+## Results
 
 - **3 distinct blast subtypes** discovered automatically
 - **Balanced distribution:** 33.5%, 33.8%, 32.6% (p=0.95)
 - **Low uncertainty:** 0.0238±0.0004
 - **Significant cluster separation:** H=340.22, p<0.001
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
