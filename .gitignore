@@ -60,3 +60,12 @@ checkpoints/
 # Figures (keep examples)
 figures/*.png
 !figures/example_*.png
+
+# Manuscript and internal files
+manuscript.tex
+UPLOAD_CHECKLIST.md
+*.pdf
+*.aux
+*.log
+*.bbl
+*.blg
