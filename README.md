@@ -6,16 +6,16 @@
 
 Official implementation of **"Unsupervised Discovery of Blast Cell Morphological Subtypes Using Deep Learning with Uncertainty Quantification"** (IEEE TMI 2025).
 
-## 🎯 Overview
+##  Overview
 
 This repository contains code for discovering blast cell morphological subtypes in acute leukemia without manual labeling, using deep learning with uncertainty quantification.
 
 **Key Features:**
-- 🔬 Unsupervised clustering of 4,944 blast cell images
-- 📊 Monte Carlo Dropout for uncertainty quantification
-- 🎨 Comprehensive visualization (PCA, t-SNE, uncertainty maps)
-- 📈 Statistical validation (silhouette, Davies-Bouldin, Calinski-Harabasz)
-- 🏥 Clinical decision support with confidence scores
+-  Unsupervised clustering of 4,944 blast cell images
+-  Monte Carlo Dropout for uncertainty quantification
+-  Comprehensive visualization (PCA, t-SNE, uncertainty maps)
+-  Statistical validation (silhouette, Davies-Bouldin, Calinski-Harabasz)
+-  Clinical decision support with confidence scores
 
 ## 📊 Results
 
@@ -120,20 +120,10 @@ python ablation_studies.py
 # - ablation_results/
 ```
 
-## 📄 Citation
 
-If you use this code, please cite:
 
-```bibtex
-@article{yourname2025blast,
-  title={Unsupervised Discovery of Blast Cell Morphological Subtypes Using Deep Learning with Uncertainty Quantification},
-  author={Your Name and Co-Authors},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2025}
-}
-```
 
-## 📦 Dataset
+## Dataset
 
 **C-NMC Leukemia Classification Challenge**
 - **Source:** [Kaggle](https://www.kaggle.com/datasets/andrewmvd/leukemia-classification)
@@ -141,7 +131,7 @@ If you use this code, please cite:
 - **Format:** BMP, 450×450 pixels
 - **License:** CC BY 4.0
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.8+
 - PyTorch 1.9+
@@ -159,7 +149,7 @@ See `requirements.txt` for complete list.
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions welcome! Please:
 1. Fork the repository
